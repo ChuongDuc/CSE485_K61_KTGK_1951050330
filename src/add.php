@@ -65,7 +65,7 @@ if (isset($_POST['btnsave'])) {
     $etitle=$_POST['etitle'];
     $edate=$_POST['edate'];
     $duration=$_POST['duration']; 
-    $tquest=$_POST['duration'];
+    $tquest=$_POST['tquest'];
     $mark=$_POST['mark'];
     $status=$_POST['status']; 
     $ecode=$_POST['ecode']; 
