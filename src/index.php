@@ -3,7 +3,6 @@
 ?>
 <main>
 <main class="container mt-5">
-    <a href="add.php" class="btn btn-primary">Thêm</a>
     <table class="table">
         <thead>
             <tr>
