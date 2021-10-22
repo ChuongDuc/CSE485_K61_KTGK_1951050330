@@ -2,7 +2,7 @@
     include 'header.php';
 ?>
 <main class="container">
-    <h2>Thay đổi thông tin bìa thi</h2>
+    <h2>Thay đổi thông tin bài thi</h2>
     <?php
     include 'config.php';
     $id = $_GET['id'];
